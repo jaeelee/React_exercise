@@ -1,0 +1,3 @@
+[submodule "movie_app"]
+	path = movie_app
+	url = https://github.com/jaeelee/movie_app.git
