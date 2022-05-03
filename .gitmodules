@@ -4,3 +4,6 @@
 [submodule "WeatherApp"]
 	path = WeatherApp
 	url = https://github.com/jaeelee/WeatherApp.git
+[submodule "TODO"]
+	path = TODO
+	url = https://github.com/jaeelee/TODO.git
